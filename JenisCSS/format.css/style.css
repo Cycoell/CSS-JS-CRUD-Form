@@ -1,22 +1,22 @@
-.tulisan-satu {
+.tulisan_satu {
     color: rgb(112, 174, 219);
     text-decoration: underline;
 }
 
-.tulisan-dua {
+.tulisan_dua {
     text-align: right;
     text-transform: capitalize;
     text-decoration: overline;
 }
 
-.tulisan-tiga {
+.tulisan_tiga {
     text-align: center;
     text-transform: lowercase;
     text-decoration: line-through;
     letter-spacing: 10px;
 }
 
-.tulisan-empat {
+.tulisan_empat {
     text-transform: uppercase;
     text-indent: 30px;
     line-height: 30px;
